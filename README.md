@@ -1,4 +1,4 @@
-# HentGPT-jailbreak-prompts
+# GPT-jailbreak-prompts
 ---
 ### Ru
 -----
