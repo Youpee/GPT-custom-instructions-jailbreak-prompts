@@ -1,4 +1,4 @@
-# GPT-jailbreak-prompts
+# GPT-custom-instructions-jailbreak-prompts
 ---
 ### Ru
 -----
